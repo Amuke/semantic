@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\semantic-similarity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEE6783-BFAE-4E93-B5D0-D95BD77EA5E1}|semantic-similarity.pyproj|C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\semantic-similarity\\semantic_similarity.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFEE6783-BFAE-4E93-B5D0-D95BD77EA5E1}|semantic-similarity.pyproj|solutionrelative:semantic_similarity.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "semantic_similarity.py",
+              "DocumentMoniker": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\semantic-similarity\\semantic_similarity.py",
+              "RelativeDocumentMoniker": "semantic_similarity.py",
+              "ToolTip": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\semantic-similarity\\semantic_similarity.py",
+              "RelativeToolTip": "semantic_similarity.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-30T15:58:44.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
